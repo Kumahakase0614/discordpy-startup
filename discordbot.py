@@ -1,6 +1,4 @@
-import discord
 from discord.ext import commands
-import Traceback
 import os
 
 bot = commands.Bot(command_prefix="$")
